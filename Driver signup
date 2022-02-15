@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SIGN UP</title>
+	<link rel="stylesheet" type="text/css" href="webpage.css">
+</head>
+<body>
+     <form action="signup_process.php" method="post">
+     	<h2>Driver Signup</h2>
+     	
+          
+          <label>Email Id</label>
+                         <input type="text" 
+                      name="user_id" 
+                      placeholder="email"><br>
+          
+
+     	<label>Password</label>
+     	<input type="password" 
+                 name="password" 
+                 placeholder="Password"><br>
+
+          <label>Re Password</label>
+          <input type="password" 
+                 name="re_password" 
+                 placeholder="Re_Password"><br>
+
+     	<button type="submit">Sign Up</button>
+          <a href="driver_details.php" class="ca">Already have an account?</a>
+     </form>
+</body>
+</html>
