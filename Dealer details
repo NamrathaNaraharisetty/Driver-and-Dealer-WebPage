@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dealer_signup</title>
+</head>
+<body>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SIGN UP</title>
+	<link rel="stylesheet" type="text/css" href="webpage.css">
+</head>
+<body>
+     <form action="" method="post">
+     	<h2>Dealer Details</h2>
+     	
+          
+          <label>Name</label>
+            <input type="text" 
+                    name="name" 
+                    placeholder="Name"><br>
+
+        <label>Mobile Number</label>
+          <input type="text" 
+                 name="Mobile Number" 
+                 placeholder="Mobile Number"><br>
+        
+        <label>Nature of Material</label>
+          <input type="text" 
+                 name="Nature of Material" 
+                 placeholder="Nature of Material"><br>
+        
+        <label>Weight of Material</label>
+          <input type="text" 
+                 name="Weight of Material" 
+                 placeholder="Weight of Material"><br>
+
+        <label>Quantity</label>
+          <input type="text" 
+                 name="Quantity" 
+                 placeholder="Quantity"><br>
+
+        <label>City</label>
+            <input type="text" 
+                 name="City" 
+                 placeholder="City"><br>
+        
+        <label>State</label>
+            <input type="text" 
+                 name="State" 
+                 placeholder="State"><br>
+               
+        <button type="submit">Submit</button>
+     </form>
+</body>
+</html>
+</body>
+</html>
